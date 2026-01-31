@@ -1,14 +1,14 @@
-# Exercício – Funções em JavaScript
+Exercício – Funções em JavaScript
 
 Este projeto contém funções básicas de operações matemáticas em JavaScript.
 
-## 📌 Operações implementadas
+Operações implementadas
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
 
-## ▶️ Como executar o projeto
+Como executar o projeto
 
 No terminal, dentro da pasta do projeto:
 
